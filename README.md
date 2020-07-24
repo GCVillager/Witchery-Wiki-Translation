@@ -1,12 +1,12 @@
 # Witchery-Wiki-Translation
-Translate Witchery mod into Chinese!
+Translate Witchery mod wiki into Chinese!
 
 原地址：https://sites.google.com/site/witcherymod/ ，访问需要梯子。
 
 MCBBS搬运帖：https://www.mcbbs.net/thread-314815-1-1.html
 
 
-##正文
+## 正文
 
 
 欢迎来到巫术，一个Minecraft mod。这个mod能让玩家领略巫术的神奇魅力，并学会控制存在于自然界中的魔力（有时还会操控其他事物）。
