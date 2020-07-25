@@ -5,7 +5,9 @@ Translate Witchery mod wiki into Chinese!
 
 MCBBS搬运帖：https://www.mcbbs.net/thread-314815-1-1.html  
   
-MCMOD百科：https://www.mcmod.cn/item/list/325-1.html ，译名参考。
+MCMOD百科：https://www.mcmod.cn/item/list/325-1.html ，译名参考。  
+ 
+HTML语法大全：http://www.w3chtml.com/html/link.html ，因为要还原原百科排版，因此决定选用HTML语法编写，可以直接从编写好的文档里复制格式。
 
 
 ## 正文
