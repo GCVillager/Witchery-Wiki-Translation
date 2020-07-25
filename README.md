@@ -3,7 +3,9 @@ Translate Witchery mod wiki into Chinese!
 
 原地址：https://sites.google.com/site/witcherymod/ ，访问需要梯子。
 
-MCBBS搬运帖：https://www.mcbbs.net/thread-314815-1-1.html
+MCBBS搬运帖：https://www.mcbbs.net/thread-314815-1-1.html  
+  
+MCMOD百科：https://www.mcmod.cn/item/list/325-1.html ，译名参考。
 
 
 ## 正文
