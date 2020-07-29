@@ -1,0 +1,10 @@
+# 他处粉笔
+
+<div style="width:500px;">
+<img src="https://github.com/GCVillager/Witchery-Wiki-Translation/blob/images/Items/otherwherechalk21.png" align="right" width="200" hspace="5" vspace="5" />
+<p>他处粉笔是用于绘制紫色的他处符号，从而形成他处之环的。他处之环和他处符号与“末影”有很大关联，与它们相关的仪式也常常离不开传送。</p>
+<p>站在地面上使用他处粉笔，就可以画出他处符号。画出的符号是各种各样的，但是它们的功能是相同的。如果你站在一个已有的符号上使用他处粉笔，新的符号就会代替旧的符号。</p>
+<p>他处符号应该按照《巫术：圆形法阵》中的图示，摆成一个类似环形的形状，才能生效。</p>
+<p>他处粉笔需要在巫师炼药锅里制造，材料包括下界疣、女神之泪、末影珍珠和仪式粉笔。</p>
+
+</div>
